@@ -1,1 +1,1 @@
-print("hello word")
+print("jaja eu termino isso aq -_-") #xd
